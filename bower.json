@@ -1,0 +1,22 @@
+{
+  "name": "vesper-icons",
+  "description": "Vesper Icons",
+  "keywords": [],
+  "homepage": "http://github.com/kkvesper/vesper-icons",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
+  "main": [
+    "./css/vesper-icons.css",
+    "./fonts/*"
+  ],
+  "ignore": [
+    "*/.*",
+    "*.json",
+    "src",
+    "*.yml",
+    "Gemfile",
+    "Gemfile.lock",
+    "*.md"
+  ]
+}

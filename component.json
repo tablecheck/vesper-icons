@@ -1,0 +1,21 @@
+{
+  "name": "vesper-icons",
+  "repo": "kkvesper/vesper-icons",
+  "description": "Vesper Icons",
+  "version": "5.1.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "SIL, MIT, CC BY 3.0",
+  "styles": [
+    "css/vesper-icons.css"
+  ],
+  "fonts": [
+    "fonts/vesper-icons-webfont.eot",
+    "fonts/vesper-icons-webfont.svg",
+    "fonts/vesper-icons-webfont.ttf",
+    "fonts/vesper-icons-webfont.woff",
+    "fonts/vesper-icons-webfont.woff2",
+    "fonts/vesper-icons.otf"
+  ]
+}

@@ -1,0 +1,206 @@
+/*!
+ *  Vesper Icons font. Copyright 2014-2015 KK Vesper
+ *
+ * Vesper Icons is fully compatible with FontAwesome version 4.x
+ */
+@font-face {
+  font-family: 'Vesper Icons';
+  src: url('../fonts/vesper-icons-webfont.eot?v=5.1.0');
+  src: url('../fonts/vesper-icons-webfont.eot?#iefix&v=5.1.0') format('embedded-opentype'),
+       url('../fonts/vesper-icons-webfont.woff2?v=5.1.0') format('woff2'),
+       url('../fonts/vesper-icons-webfont.woff?v=5.1.0') format('woff'),
+       url('../fonts/vesper-icons-webfont.ttf?v=5.1.0') format('truetype'),
+       url('../fonts/vesper-icons-webfont.svg?v=5.1.0#vespericonsregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.vs {
+  display: inline-block;
+  font-family: 'Vesper Icons';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.vs.pull-left {
+  margin-right: .3em;
+}
+.fa-xl {
+  font-size: 1.6666666666666666em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+/* Vesper uses the Unicode Private Use Area (PUA) to ensure screen
+   readers do not read off random characters that represent icons */
+.vs-face-allergy:before {
+  content: "\f000";
+}
+.vs-baby:before {
+  content: "\f001";
+}
+.vs-butterfly:before {
+  content: "\f002";
+}
+.vs-calendar-alt:before {
+  content: "\f003";
+}
+.vs-clock:before {
+  content: "\f004";
+}
+.vs-clock-alt:before {
+  content: "\f005";
+}
+.vs-cutlery:before {
+  content: "\f006";
+}
+.vs-face-dislike:before {
+  content: "\f007";
+}
+.vs-edit-page:before {
+  content: "\f008";
+}
+.vs-floors:before {
+  content: "\f009";
+}
+.vs-gantt:before {
+  content: "\f00a";
+}
+.vs-gantt-o:before {
+  content: "\f00b";
+}
+.vs-globe:before {
+  content: "\f00c";
+}
+.vs-hourglass:before {
+  content: "\f00d";
+}
+.vs-id-card:before {
+  content: "\f00e";
+}
+.vs-keyboard:before {
+  content: "\f010";
+}
+.vs-face-like:before {
+  content: "\f011";
+}
+.vs-moon:before {
+  content: "\f012";
+}
+.vs-p:before {
+  content: "\f013";
+}
+.vs-person:before {
+  content: "\f014";
+}
+.vs-sex-female:before {
+  content: "\f015";
+}
+.vs-sex-male:before {
+  content: "\f016";
+}
+.vs-shop:before {
+  content: "\f017";
+}
+.vs-smoking:before {
+  content: "\f018";
+}
+.vs-speech:before {
+  content: "\f019";
+}
+.vs-spinner:before {
+  content: "\f01a";
+}
+.vs-table:before {
+  content: "\f01b";
+}
+.vs-table-o:before {
+  content: "\f01c";
+}
+.vs-table-alt:before {
+  content: "\f01d";
+}
+.vs-tables:before {
+  content: "\f01e";
+}
+.vs-profile:before {
+  content: "\f021";
+}
+.vs-user-suit:before {
+  content: "\f022";
+}
+.vs-user-suit-female:before {
+  content: "\f023";
+}
+.vs-user-waiter:before {
+  content: "\f024";
+}
+.vs-user-waiter-female:before {
+  content: "\f025";
+}
+.vs-user-boss:before {
+  content: "\f026";
+}
+.vs-calendar:before {
+  content: "\f027";
+}
+.vs-sleep:before {
+  content: "\f028";
+}
+.vs-sun:before {
+  content: "\f029";
+}
+.vs-sleep-square:before {
+  content: "\f02a";
+}
+.vs-walk:before {
+  content: "\f02b";
+}
+.vs-comment:before {
+  content: "\f02c";
+}
+.vs-sunrise:before {
+  content: "\f02d";
+}
+.vs-sunrise-o:before {
+  content: "\f02e";
+}
+.vs-file-download:before {
+  content: "\f02f";
+}
+.vs-file-download-o:before {
+  content: "\f030";
+}
+.vs-file-move-o:before {
+  content: "\f031";
+}
+.vs-crown:before {
+  content: "\f032";
+}
+.vs-mobile:before {
+  content: "\f033";
+}
+.vs-comments:before {
+  content: "\f034";
+}
+.vs-user-group:before {
+  content: "\f035";
+}
+.vs-smoking-alt:before {
+  content: "\f036";
+}
+.vs-no-smoking-alt:before {
+  content: "\f037";
+}
+.vs-senior:before, .vs-elderly:before {
+  content: "\f038";
+}
+.vs-clipboard:before {
+  content: "\f039";
+}
+.vs-sofa:before {
+  content: "\f03a";
+}
+.vs-cat-face:before {
+  content: "\f03b";
+}

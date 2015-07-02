@@ -1,0 +1,25 @@
+{
+  "name": "vesper-icons",
+  "description": "Icon font for the web, compatible with FontAwesome",
+  "version": "5.1.0",
+  "keywords": ["vesper", "icons", "vespericons", "icon", "font", "bootstrap", "iconfont", "font", "awesome", "fontawesome"],
+  "homepage": "http://github.com/kkvesper/vesper-icons",
+  "bugs": {
+    "url" : "http://github.com/kkvesper/vesper-icons/issues"
+  },
+  "author": {
+    "name": "Johnny Shields",
+    "email": "shields@kkvesper.jp",
+    "web": "http://github.com/johnnyshields"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kkvesper/vesper-icons.git"
+  },
+  "license": "OFL-1.1 AND MIT",
+  "dependencies": {
+  },
+  "engines" : {
+    "node" : ">=0.10.3"
+  }
+}
