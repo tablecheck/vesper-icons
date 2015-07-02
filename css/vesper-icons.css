@@ -26,11 +26,6 @@
 .vs.pull-left {
   margin-right: .3em;
 }
-.fa-xl {
-  font-size: 1.6666666666666666em;
-  line-height: 0.75em;
-  vertical-align: -15%;
-}
 /* Vesper uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
 .vs-face-allergy:before {
