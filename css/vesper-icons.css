@@ -5,12 +5,12 @@
  */
 @font-face {
   font-family: 'Vesper Icons';
-  src: url('../fonts/vesper-icons-webfont.eot?v=5.1.0');
-  src: url('../fonts/vesper-icons-webfont.eot?#iefix&v=5.1.0') format('embedded-opentype'),
-       url('../fonts/vesper-icons-webfont.woff2?v=5.1.0') format('woff2'),
-       url('../fonts/vesper-icons-webfont.woff?v=5.1.0') format('woff'),
-       url('../fonts/vesper-icons-webfont.ttf?v=5.1.0') format('truetype'),
-       url('../fonts/vesper-icons-webfont.svg?v=5.1.0#vespericonsregular') format('svg');
+  src: url('../fonts/vesper-icons-webfont.eot?v=5.2.0');
+  src: url('../fonts/vesper-icons-webfont.eot?#iefix&v=5.2.0') format('embedded-opentype'),
+       url('../fonts/vesper-icons-webfont.woff2?v=5.2.0') format('woff2'),
+       url('../fonts/vesper-icons-webfont.woff?v=5.2.0') format('woff'),
+       url('../fonts/vesper-icons-webfont.ttf?v=5.2.0') format('truetype'),
+       url('../fonts/vesper-icons-webfont.svg?v=5.2.0#vespericonsregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -198,4 +198,13 @@
 }
 .vs-cat-face:before {
   content: "\f03b";
+}
+.vs-neko:before {
+  content: "\f03c";
+}
+.vs-neko-sleep:before {
+  content: "\f03d";
+}
+.vs-ninja:before {
+  content: "\f03e";
 }
