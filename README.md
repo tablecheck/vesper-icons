@@ -9,6 +9,21 @@ Vesper Icons is in a public preview state. Icons may be tweaked or removed witho
 so please be very careful when upgrading even from tiny versions.
 
 
+### Usage
+
+Usage is equivalent to FontAwesome, except with `.vs` as the base:
+
+```
+i.vs.vs-ninja
+```
+
+You can mix Vesper Icons with FontAwesome modifier classes, e.g.:
+
+```
+i.vs.vs-butterfly.fa-3x.fa-spin
+```
+
+
 ### Shameless Plug
 
 Vesper Icons are sponsored by [KK Vesper](http://kkvesper.jp/),
