@@ -37,7 +37,7 @@ at info@kkvesper.jp.
 
 ### Icon List
 
-* Coming soon.
+* Coming soon. For now, please refer to [vesper-icons.css](https://github.com/kkvesper/vesper-icons/blob/master/css/vesper-icons.css)
 
 
 ### More Info
