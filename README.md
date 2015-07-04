@@ -57,7 +57,7 @@ I'm glad to accept PRs to automate the below overly-manual steps.
 
 #### Design
 
-Workflow depends on Type 3 for Windows, which is a paid software program. If anyone knows a good FOSS cross-platform font editor let me know.
+Workflow depends on Type 3 font editor for Windows, which is a paid software program. If anyone knows a good FOSS cross-platform font editor let me know.
 
 - Draw vector in favorite tool, export to SVG
 - In Type 3:
