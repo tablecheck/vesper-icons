@@ -1,6 +1,6 @@
 # Vesper Icons
 
-Icon font for the web, compatible with [Font Awesome](http://fontawesome.io/) version 4.x
+Icon font for the web, compatible with [Font Awesome](http://fontawesome.io/) version 4.x, made by by [KK Vesper](http://kkvesper.jp/)
 
 
 ### WARNING
