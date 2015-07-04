@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.2.2
+
+* Correct curve direction on right eye of vs-neko-sleep
+
 ## 5.2.1
 
 * Tweak vs-neko, vs-neko-sleep for small resolution
