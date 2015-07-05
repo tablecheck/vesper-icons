@@ -1,12 +1,27 @@
 # Vesper Icons
 
-Icon font for the web, compatible with FontAwesome version 4.x
+Icon font for the web, compatible with [Font Awesome](http://fontawesome.io/) version 4.x, made by by [KK Vesper](http://kkvesper.jp/)
 
 
 ### WARNING
 
 Vesper Icons is in a public preview state. Icons may be tweaked or removed without warning,
 so please be very careful when upgrading even from tiny versions.
+
+
+### Usage
+
+Usage is equivalent to [Font Awesome](http://fontawesome.io/), except with `.vs` as the base:
+
+```
+i.vs.vs-ninja
+```
+
+You can mix Vesper Icons with Font Awesome modifier classes, e.g.:
+
+```
+i.vs.vs-butterfly.fa-3x.fa-spin
+```
 
 
 ### Shameless Plug
@@ -22,17 +37,17 @@ at info@kkvesper.jp.
 
 ### Icon List
 
-* Coming soon.
+* Coming soon. For now, please refer to [vesper-icons.css](https://github.com/kkvesper/vesper-icons/blob/master/css/vesper-icons.css)
 
 
 ### More Info
 
 Vesper Icons are an original creation. However, [some icons may resemble designs found elsewhere
 on the internets](http://www.hanselman.com/blog/ThereIsOnlyOneCloudIconInTheEntireUniverse.aspx),
-including variations of icons in FontAwesome. If we've done something daft please raise an issue
+including variations of icons in [Font Awesome](http://fontawesome.io/). If we've done something daft please raise an issue
 and we'll discuss in a civil manner.
 
-**To FontAwesome:** If you'd like to take icons from our set and add them to FontAwesome,
+**To Font Awesome:** If you'd like to take icons from our set and add them to FontAwesome,
 we're all for it, please get in touch.
 
 
@@ -42,7 +57,7 @@ I'm glad to accept PRs to automate the below overly-manual steps.
 
 #### Design
 
-Workflow depends on Type 3 for Windows, which is a paid software program. If anyone knows a good FOSS cross-platform font editor let me know.
+Workflow depends on Type 3 font editor for Windows, which is a paid software program. If anyone knows a good FOSS cross-platform font editor let me know.
 
 - Draw vector in favorite tool, export to SVG
 - In Type 3:
@@ -79,4 +94,4 @@ Workflow depends on Type 3 for Windows, which is a paid software program. If any
   - http://creativecommons.org/licenses/by/3.0/
 - Attribution is not required but much appreciated:
   - `Vesper Icons by KK Vesper - http://kkvesper.jp`
-- Vesper Icons intends to be license-compatible with FontAwesome. The FontAwesome license is available here: http://fontawesome.io/license
+- Vesper Icons intends to be license-compatible with [Font Awesome](http://fontawesome.io/). The FontAwesome license is available here: http://fontawesome.io/license
