@@ -1,8 +1,12 @@
 # Vesper Icons Changelog
 
+## Unreleased
+
+* vs-sofa: Lower vertical position
+
 ## 5.2.2
 
-* Correct curve direction on right eye of vs-neko-sleep
+* vs-neko-sleep: Correct curve direction on right eye
 
 ## 5.2.1
 
