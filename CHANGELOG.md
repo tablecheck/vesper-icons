@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.3.1
+
+* Fix missed version update
+
 ## 5.3.0
 
 * New icon: vs-language
