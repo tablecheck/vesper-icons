@@ -1,7 +1,11 @@
 # Vesper Icons Changelog
 
-## Unreleased
+## 5.3.0
 
+* New icon: vs-language
+* New icon: vs-comment-bubble
+* New icon: vs-no-comment-bubble
+* New icon: vs-sms
 * vs-sofa: Lower vertical position
 
 ## 5.2.2
