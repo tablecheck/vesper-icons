@@ -208,3 +208,15 @@
 .vs-ninja:before {
   content: "\f03e";
 }
+.vs-language:before {
+  content: "\f03f";
+}
+.vs-comment-bubble:before {
+  content: "\f040";
+}
+.vs-no-comment-bubble:before {
+  content: "\f041";
+}
+.vs-sms:before {
+  content: "\f042";
+}

@@ -73,11 +73,10 @@ Workflow depends on Type 3 font editor for Windows, which is a paid software pro
    - Font -> Names... -> Advanced: Bump "Version"
    - Font -> Description... -> Advanced: Bump "Version"
    - Export to OTF, add to Git
-- Generate Webfonts
-   - Go to the [FontSquirrel Webfont Generator](http://www.fontsquirrel.com/tools/webfont-generator)
-   - Choose "Basic" and export
-   - Rename exported files `vesper-icons.xxx` --> `vesper-icons-webfont.xxx`
-   - Add exported fonts to Git
+- Generate Webfonts via `build.bat`
+   - Uses [marmot](https://github.com/petethepig/marmot) to go [FontSquirrel Webfont Generator](http://www.fontsquirrel.com/tools/webfont-generator)
+   - Uses "Basic" and export
+   - Renames exported files `vesper-icons.xxx` --> `vesper-icons-webfont.xxx`
 - Add new glyph codes to CSS
 - Update CHANGELOG
 - Bump version in CSS, package.json, and component.json (use find/replace)
