@@ -1,7 +1,7 @@
 {
   "name": "vesper-icons",
   "description": "Vesper Icons",
-  "keywords": [],
+  "keywords": ["vesper", "icons", "vespericons", "vesper-icons", "icon", "font", "bootstrap", "iconfont", "font", "awesome", "fontawesome"],
   "homepage": "http://github.com/kkvesper/vesper-icons",
   "dependencies": {},
   "devDependencies": {},
