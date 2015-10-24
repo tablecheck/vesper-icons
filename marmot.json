@@ -1,0 +1,7 @@
+{
+  "formats":["ttf", "eot", "svg", "woff", "woff2"],
+  "mode":"basic",
+  "fallback":"none",
+  "subset_custom_range":"E000-F8FF",
+  "emsquare":"1792"
+}
