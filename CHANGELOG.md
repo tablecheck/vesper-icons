@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.3.3
+
+* New icon: vs-window
+
 ## 5.3.2
 
 * vs-language: Fix inverted "A" char
