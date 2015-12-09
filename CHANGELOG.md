@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.3.4
+
+* Fix vector direction of vs-window
+
 ## 5.3.3
 
 * New icon: vs-window
