@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.4.1
+
+* Tweak to eraser on vs-whiteboard
+
 ## 5.4.0
 
 * New icon: vs-sticky-note
