@@ -5,12 +5,12 @@
  */
 @font-face {
   font-family: 'Vesper Icons';
-  src: url('../fonts/vesper-icons-webfont.eot?v=5.3.4');
-  src: url('../fonts/vesper-icons-webfont.eot?#iefix&v=5.3.4') format('embedded-opentype'),
-       url('../fonts/vesper-icons-webfont.woff2?v=5.3.4') format('woff2'),
-       url('../fonts/vesper-icons-webfont.woff?v=5.3.4') format('woff'),
-       url('../fonts/vesper-icons-webfont.ttf?v=5.3.4') format('truetype'),
-       url('../fonts/vesper-icons-webfont.svg?v=5.3.4#vesper_iconsregular') format('svg');
+  src: url('../fonts/vesper-icons-webfont.eot?v=5.4.0');
+  src: url('../fonts/vesper-icons-webfont.eot?#iefix&v=5.4.0') format('embedded-opentype'),
+       url('../fonts/vesper-icons-webfont.woff2?v=5.4.0') format('woff2'),
+       url('../fonts/vesper-icons-webfont.woff?v=5.4.0') format('woff'),
+       url('../fonts/vesper-icons-webfont.ttf?v=5.4.0') format('truetype'),
+       url('../fonts/vesper-icons-webfont.svg?v=5.4.0#vesper_iconsregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -222,4 +222,19 @@
 }
 .vs-window:before {
   content: "\f043";
+}
+.vs-tablesolution:before, .vs-tablecheck:before {
+  content: "\f044";
+}
+.vs-clip-note:before, .vs-paperclip-note:before {
+  content: "\f045";
+}
+.vs-magnet-note:before {
+  content: "\f046";
+}
+.vs-sticky-note:before {
+  content: "\f047";
+}
+.vs-whiteboard:before {
+  content: "\f048";
 }

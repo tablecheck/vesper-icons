@@ -1,5 +1,13 @@
 # Vesper Icons Changelog
 
+## 5.4.0
+
+* New icon: vs-sticky-note
+* New icon: vs-clip-note (alias vs-paperclip-note)
+* New icon: vs-magnet-note
+* New icon: vs-whiteboard
+* New icon: vs-tablesolution (alias vs-tablecheck)
+
 ## 5.3.4
 
 * Fix vector direction of vs-window
