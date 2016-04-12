@@ -1,5 +1,10 @@
 # Vesper Icons Changelog
 
+## 5.5.0
+
+* New icon: vs-table-question
+* New icon: vs-clip-note-o (alias vs-paperclip-note-o)
+
 ## 5.4.1
 
 * Tweak to eraser on vs-whiteboard

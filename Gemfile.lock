@@ -1,0 +1,30 @@
+GIT
+  remote: git://github.com/petethepig/marmot.git
+  revision: dd4877fbe1eb40cbbfe49b3a2d2f143aa6db2c58
+  specs:
+    marmot (0.0.5)
+      httmultiparty
+      json
+      trollop
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    httmultiparty (0.3.16)
+      httparty (>= 0.7.3)
+      mimemagic
+      multipart-post
+    httparty (0.13.7)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
+    json (1.8.3)
+    mimemagic (0.3.1)
+    multi_xml (0.5.5)
+    multipart-post (2.0.0)
+    trollop (2.1.2)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  marmot!
