@@ -5,12 +5,12 @@
  */
 @font-face {
   font-family: 'Vesper Icons';
-  src: url('../fonts/vesper-icons-webfont.eot?v=5.5.0');
-  src: url('../fonts/vesper-icons-webfont.eot?#iefix&v=5.5.0') format('embedded-opentype'),
-       url('../fonts/vesper-icons-webfont.woff2?v=5.5.0') format('woff2'),
-       url('../fonts/vesper-icons-webfont.woff?v=5.5.0') format('woff'),
-       url('../fonts/vesper-icons-webfont.ttf?v=5.5.0') format('truetype'),
-       url('../fonts/vesper-icons-webfont.svg?v=5.5.0#vesper_iconsregular') format('svg');
+  src: url('../fonts/vesper-icons-webfont.eot?v=5.6.0');
+  src: url('../fonts/vesper-icons-webfont.eot?#iefix&v=5.6.0') format('embedded-opentype'),
+       url('../fonts/vesper-icons-webfont.woff2?v=5.6.0') format('woff2'),
+       url('../fonts/vesper-icons-webfont.woff?v=5.6.0') format('woff'),
+       url('../fonts/vesper-icons-webfont.ttf?v=5.6.0') format('truetype'),
+       url('../fonts/vesper-icons-webfont.svg?v=5.6.0#vesper_iconsregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -243,4 +243,55 @@
 }
 .vs-clip-note-o:before, .vs-paperclip-note-o:before {
   content: "\f04a";
+}
+.vs-flower:before {
+  content: "\f04b";
+}
+.vs-rose:before {
+  content: "\f04c";
+}
+.vs-i-square:before {
+  content: "\f04d";
+}
+.vs-cow:before {
+  content: "\f04e";
+}
+.vs-pig:before {
+  content: "\f04f";
+}
+.vs-chicken:before {
+  content: "\f050";
+}
+.vs-fish:before {
+  content: "\f051";
+}
+.vs-drumstick:before {
+  content: "\f052";
+}
+.vs-a-square:before {
+  content: "\f053";
+}
+.vs-b-square:before {
+  content: "\f054";
+}
+.vs-c-square:before {
+  content: "\f055";
+}
+.vs-1-square:before {
+  content: "\f056";
+}
+.vs-2-square:before {
+  content: "\f057";
+}
+.vs-3-square:before {
+  content: "\f058";
+}
+.vs-kanji-yubi:before {
+  content: "\f059";
+}
+.vs-kanji-chu:before {
+  content: "\f05a";
+}
+.vs-kanji-utage:before {
+  content: "\f05b";
 }
