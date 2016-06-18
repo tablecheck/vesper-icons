@@ -6,6 +6,7 @@
 * New icons: vs-cow, vs-pig, vs-chicken, vs-fish, vs-drumstick
 * New icons: vs-i-square, vs-a-square, vs-b-square, vs-c-square, vs-1-square, vs-2-square, vs-3-square
 * New icons: vs-kanji-yubi, vs-kanji-chu, vs-kanji-utage
+* Fix direction of inner curves
 
 ## 5.5.0
 
