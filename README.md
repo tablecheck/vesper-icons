@@ -26,7 +26,7 @@ i.vs.vs-butterfly.fa-3x.fa-spin
 
 ### Shameless Plug
 
-Vesper Icons are sponsored by [KK Vesper](http://kkvesper.jp/),
+Vesper Icons are sponsored by [KK VESPER](http://kkvesper.jp/),
 makers of [TableSolution](http://www.tablesolution.com/),
 Japan's leading restaurant management app.
 
@@ -37,7 +37,9 @@ at info@kkvesper.jp.
 
 ### Icon List
 
-* Coming soon. For now, please refer to [vesper-icons.css](https://github.com/kkvesper/vesper-icons/blob/master/css/vesper-icons.css)
+* Big thanks to [Dan Wolf](github.com/PaluMacil) for making his [vesper-gen](https://github.com/PaluMacil/vesper-gen) tool to render the icons.
+
+![image](https://cloud.githubusercontent.com/assets/27655/16169540/bf5e2cf8-356d-11e6-939f-03167d117d2a.png)
 
 
 ### More Info
@@ -59,8 +61,9 @@ I'm glad to accept PRs to automate the below overly-manual steps.
 
 Workflow depends on Type 3 font editor for Windows, which is a paid software program. If anyone knows a good FOSS cross-platform font editor let me know.
 
-- Draw vector in favorite tool, export to SVG
-- In Type 3:
+- Draw vectors in favorite tool (Adobe Illustrator, Corel DRAW, etc.)
+- Export to SVG
+- In Type 3 font editor:
    - Open .gfs file in Type 3
    - View -> Grid -> Grid Size...: Set to 64 units
    - Add Glyph(s), import SVG, edit
@@ -85,6 +88,7 @@ Workflow depends on Type 3 font editor for Windows, which is a paid software pro
 
 ### License
 
+- Icon designs are Copyright (c) 2016 KK VESPER
 - The Vesper Icons font is licensed under the SIL OFL 1.1:
   - http://scripts.sil.org/OFL
 - Vesper Icons CSS and other source code files are licensed under the MIT License:
