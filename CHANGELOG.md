@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.6.1
+
+* New icons: vs-line, vs-line-square
+
 ## 5.6.0
 
 * New icons: vs-flower, vs-rose
