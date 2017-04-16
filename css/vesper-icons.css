@@ -5,12 +5,12 @@
  */
 @font-face {
   font-family: 'Vesper Icons';
-  src: url('../fonts/vesper-icons-webfont.eot?v=5.6.1');
-  src: url('../fonts/vesper-icons-webfont.eot?#iefix&v=5.6.1') format('embedded-opentype'),
-       url('../fonts/vesper-icons-webfont.woff2?v=5.6.1') format('woff2'),
-       url('../fonts/vesper-icons-webfont.woff?v=5.6.1') format('woff'),
-       url('../fonts/vesper-icons-webfont.ttf?v=5.6.1') format('truetype'),
-       url('../fonts/vesper-icons-webfont.svg?v=5.6.1#vesper_iconsregular') format('svg');
+  src: url('../fonts/vesper-icons-webfont.eot?v=5.6.2');
+  src: url('../fonts/vesper-icons-webfont.eot?#iefix&v=5.6.2') format('embedded-opentype'),
+       url('../fonts/vesper-icons-webfont.woff2?v=5.6.2') format('woff2'),
+       url('../fonts/vesper-icons-webfont.woff?v=5.6.2') format('woff'),
+       url('../fonts/vesper-icons-webfont.ttf?v=5.6.2') format('truetype'),
+       url('../fonts/vesper-icons-webfont.svg?v=5.6.2#vesper_iconsregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }

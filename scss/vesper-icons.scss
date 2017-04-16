@@ -1,0 +1,308 @@
+/*!
+ *  Vesper Icons font. Copyright 2014-2015 KK Vesper
+ *
+ * Vesper Icons is fully compatible with FontAwesome version 4.x
+ */
+
+$vs-css-prefix: vs !default;
+$vs-font-path: "../fonts" !default;
+$vs-version: "5.6.2" !default;
+
+@font-face {
+  font-family: 'Vesper Icons';
+  src: url('#{$vs-font-path}/vesper-icons-webfont.eot?v=#{$vs-version}');
+  src: url('#{$vs-font-path}/vesper-icons-webfont.eot?#iefix&v=#{$vs-version}') format('embedded-opentype'),
+       url('#{$vs-font-path}/vesper-icons-webfont.woff2?v=#{$vs-version}') format('woff2'),
+       url('#{$vs-font-path}/vesper-icons-webfont.woff?v=#{$vs-version}') format('woff'),
+       url('#{$vs-font-path}/vesper-icons-webfont.ttf?v=#{$vs-version}') format('truetype'),
+       url('#{$vs-font-path}/vesper-icons-webfont.svg?v=#{$vs-version}#vesper_iconsregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.#{$vs-css-prefix} {
+  display: inline-block;
+  font-family: 'Vesper Icons';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.#{$vs-css-prefix}.pull-left {
+  margin-right: .3em;
+}
+/* Vesper uses the Unicode Private Use Area (PUA) to ensure screen
+   readers do not read off random characters that represent icons */
+.#{$vs-css-prefix}-face-allergy:before {
+  content: "\f000";
+}
+.#{$vs-css-prefix}-baby:before {
+  content: "\f001";
+}
+.#{$vs-css-prefix}-butterfly:before {
+  content: "\f002";
+}
+.#{$vs-css-prefix}-calendar-alt:before {
+  content: "\f003";
+}
+.#{$vs-css-prefix}-clock:before {
+  content: "\f004";
+}
+.#{$vs-css-prefix}-clock-alt:before {
+  content: "\f005";
+}
+.#{$vs-css-prefix}-cutlery:before {
+  content: "\f006";
+}
+.#{$vs-css-prefix}-face-dislike:before {
+  content: "\f007";
+}
+.#{$vs-css-prefix}-edit-page:before {
+  content: "\f008";
+}
+.#{$vs-css-prefix}-floors:before {
+  content: "\f009";
+}
+.#{$vs-css-prefix}-gantt:before {
+  content: "\f00a";
+}
+.#{$vs-css-prefix}-gantt-o:before {
+  content: "\f00b";
+}
+.#{$vs-css-prefix}-globe:before {
+  content: "\f00c";
+}
+.#{$vs-css-prefix}-hourglass:before {
+  content: "\f00d";
+}
+.#{$vs-css-prefix}-id-card:before {
+  content: "\f00e";
+}
+.#{$vs-css-prefix}-keyboard:before {
+  content: "\f010";
+}
+.#{$vs-css-prefix}-face-like:before {
+  content: "\f011";
+}
+.#{$vs-css-prefix}-moon:before {
+  content: "\f012";
+}
+.#{$vs-css-prefix}-p:before {
+  content: "\f013";
+}
+.#{$vs-css-prefix}-person:before {
+  content: "\f014";
+}
+.#{$vs-css-prefix}-sex-female:before {
+  content: "\f015";
+}
+.#{$vs-css-prefix}-sex-male:before {
+  content: "\f016";
+}
+.#{$vs-css-prefix}-shop:before {
+  content: "\f017";
+}
+.#{$vs-css-prefix}-smoking:before {
+  content: "\f018";
+}
+.#{$vs-css-prefix}-speech:before {
+  content: "\f019";
+}
+.#{$vs-css-prefix}-spinner:before {
+  content: "\f01a";
+}
+.#{$vs-css-prefix}-table:before {
+  content: "\f01b";
+}
+.#{$vs-css-prefix}-table-o:before {
+  content: "\f01c";
+}
+.#{$vs-css-prefix}-table-alt:before {
+  content: "\f01d";
+}
+.#{$vs-css-prefix}-tables:before {
+  content: "\f01e";
+}
+.#{$vs-css-prefix}-profile:before {
+  content: "\f021";
+}
+.#{$vs-css-prefix}-user-suit:before {
+  content: "\f022";
+}
+.#{$vs-css-prefix}-user-suit-female:before {
+  content: "\f023";
+}
+.#{$vs-css-prefix}-user-waiter:before {
+  content: "\f024";
+}
+.#{$vs-css-prefix}-user-waiter-female:before {
+  content: "\f025";
+}
+.#{$vs-css-prefix}-user-boss:before {
+  content: "\f026";
+}
+.#{$vs-css-prefix}-calendar:before {
+  content: "\f027";
+}
+.#{$vs-css-prefix}-sleep:before {
+  content: "\f028";
+}
+.#{$vs-css-prefix}-sun:before {
+  content: "\f029";
+}
+.#{$vs-css-prefix}-sleep-square:before {
+  content: "\f02a";
+}
+.#{$vs-css-prefix}-walk:before {
+  content: "\f02b";
+}
+.#{$vs-css-prefix}-comment:before {
+  content: "\f02c";
+}
+.#{$vs-css-prefix}-sunrise:before {
+  content: "\f02d";
+}
+.#{$vs-css-prefix}-sunrise-o:before {
+  content: "\f02e";
+}
+.#{$vs-css-prefix}-file-download:before {
+  content: "\f02f";
+}
+.#{$vs-css-prefix}-file-download-o:before {
+  content: "\f030";
+}
+.#{$vs-css-prefix}-file-move-o:before {
+  content: "\f031";
+}
+.#{$vs-css-prefix}-crown:before {
+  content: "\f032";
+}
+.#{$vs-css-prefix}-mobile:before {
+  content: "\f033";
+}
+.#{$vs-css-prefix}-comments:before {
+  content: "\f034";
+}
+.#{$vs-css-prefix}-user-group:before {
+  content: "\f035";
+}
+.#{$vs-css-prefix}-smoking-alt:before {
+  content: "\f036";
+}
+.#{$vs-css-prefix}-no-smoking-alt:before {
+  content: "\f037";
+}
+.#{$vs-css-prefix}-senior:before, .#{$vs-css-prefix}-elderly:before {
+  content: "\f038";
+}
+.#{$vs-css-prefix}-clipboard:before {
+  content: "\f039";
+}
+.#{$vs-css-prefix}-sofa:before {
+  content: "\f03a";
+}
+.#{$vs-css-prefix}-cat-face:before {
+  content: "\f03b";
+}
+.#{$vs-css-prefix}-neko:before {
+  content: "\f03c";
+}
+.#{$vs-css-prefix}-neko-sleep:before {
+  content: "\f03d";
+}
+.#{$vs-css-prefix}-ninja:before {
+  content: "\f03e";
+}
+.#{$vs-css-prefix}-language:before {
+  content: "\f03f";
+}
+.#{$vs-css-prefix}-comment-bubble:before {
+  content: "\f040";
+}
+.#{$vs-css-prefix}-no-comment-bubble:before {
+  content: "\f041";
+}
+.#{$vs-css-prefix}-sms:before {
+  content: "\f042";
+}
+.#{$vs-css-prefix}-window:before {
+  content: "\f043";
+}
+.#{$vs-css-prefix}-tablesolution:before, .#{$vs-css-prefix}-tablecheck:before {
+  content: "\f044";
+}
+.#{$vs-css-prefix}-clip-note:before, .#{$vs-css-prefix}-paperclip-note:before {
+  content: "\f045";
+}
+.#{$vs-css-prefix}-magnet-note:before {
+  content: "\f046";
+}
+.#{$vs-css-prefix}-sticky-note:before {
+  content: "\f047";
+}
+.#{$vs-css-prefix}-whiteboard:before {
+  content: "\f048";
+}
+.#{$vs-css-prefix}-table-question:before {
+  content: "\f049";
+}
+.#{$vs-css-prefix}-clip-note-o:before, .#{$vs-css-prefix}-paperclip-note-o:before {
+  content: "\f04a";
+}
+.#{$vs-css-prefix}-flower:before {
+  content: "\f04b";
+}
+.#{$vs-css-prefix}-rose:before {
+  content: "\f04c";
+}
+.#{$vs-css-prefix}-i-square:before {
+  content: "\f04d";
+}
+.#{$vs-css-prefix}-cow:before {
+  content: "\f04e";
+}
+.#{$vs-css-prefix}-pig:before {
+  content: "\f04f";
+}
+.#{$vs-css-prefix}-chicken:before {
+  content: "\f050";
+}
+.#{$vs-css-prefix}-fish:before {
+  content: "\f051";
+}
+.#{$vs-css-prefix}-drumstick:before {
+  content: "\f052";
+}
+.#{$vs-css-prefix}-a-square:before {
+  content: "\f053";
+}
+.#{$vs-css-prefix}-b-square:before {
+  content: "\f054";
+}
+.#{$vs-css-prefix}-c-square:before {
+  content: "\f055";
+}
+.#{$vs-css-prefix}-1-square:before {
+  content: "\f056";
+}
+.#{$vs-css-prefix}-2-square:before {
+  content: "\f057";
+}
+.#{$vs-css-prefix}-3-square:before {
+  content: "\f058";
+}
+.#{$vs-css-prefix}-kanji-yubi:before {
+  content: "\f059";
+}
+.#{$vs-css-prefix}-kanji-chu:before {
+  content: "\f05a";
+}
+.#{$vs-css-prefix}-kanji-utage:before {
+  content: "\f05b";
+}
+.#{$vs-css-prefix}-line:before {
+  content: "\f05c";
+}
+.#{$vs-css-prefix}-line-square:before {
+  content: "\f05d";
+}

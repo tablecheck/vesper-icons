@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.6.2
+
+* Add SCSS support.
+
 ## 5.6.1
 
 * New icons: vs-line, vs-line-square
