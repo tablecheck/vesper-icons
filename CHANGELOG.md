@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.7.0
+
+* New icons: vs-chair, vs-chair-alt
+
 ## 5.6.2
 
 * Add SCSS support.
