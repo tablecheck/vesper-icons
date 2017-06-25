@@ -6,7 +6,7 @@
 
 $vs-css-prefix: vs !default;
 $vs-font-path: "../fonts" !default;
-$vs-version: "5.8.0" !default;
+$vs-version: "5.8.1" !default;
 
 @font-face {
   font-family: 'Vesper Icons';
@@ -320,4 +320,16 @@ $vs-version: "5.8.0" !default;
 }
 .#{$vs-css-prefix}-naver-square:before {
   content: "\f062";
+}
+.#{$vs-css-prefix}-kakao:before {
+  content: "\f063";
+}
+.#{$vs-css-prefix}-kakao-square:before {
+  content: "\f064";
+}
+.#{$vs-css-prefix}-kakaotalk:before {
+  content: "\f065";
+}
+.#{$vs-css-prefix}-kakaotalk-square:before {
+  content: "\f066";
 }

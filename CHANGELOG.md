@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.8.1
+
+* New icons: vs-kakao, vs-kakao-square, vs-kakaotalk, vs-kakaotalk-square
+
 ## 5.8.0
 
 * New icons: vs-highchair, vs-naver, vs-naver-square
