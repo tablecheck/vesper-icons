@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.8.0
+
+* New icons: vs-highchair, vs-naver, vs-naver-square
+
 ## 5.7.0
 
 * New icons: vs-chair, vs-chair-alt

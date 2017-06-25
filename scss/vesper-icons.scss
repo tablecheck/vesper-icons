@@ -6,7 +6,7 @@
 
 $vs-css-prefix: vs !default;
 $vs-font-path: "../fonts" !default;
-$vs-version: "5.7.0" !default;
+$vs-version: "5.8.0" !default;
 
 @font-face {
   font-family: 'Vesper Icons';
@@ -311,4 +311,13 @@ $vs-version: "5.7.0" !default;
 }
 .#{$vs-css-prefix}-chair-alt:before {
   content: "\f05f";
+}
+.#{$vs-css-prefix}-highchair:before {
+  content: "\f060";
+}
+.#{$vs-css-prefix}-naver:before {
+  content: "\f061";
+}
+.#{$vs-css-prefix}-naver-square:before {
+  content: "\f062";
 }
