@@ -6,7 +6,7 @@
 
 $vs-css-prefix: vs !default;
 $vs-font-path: "../fonts" !default;
-$vs-version: "5.8.1" !default;
+$vs-version: "5.9.0" !default;
 
 @font-face {
   font-family: 'Vesper Icons';
@@ -33,6 +33,117 @@ $vs-version: "5.8.1" !default;
 }
 /* Vesper uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
+.#{$vs-css-prefix}-0-square:before {
+  content: "0";
+}
+.#{$vs-css-prefix}-1-square:before {
+  content: "1";
+}
+.#{$vs-css-prefix}-2-square:before {
+  content: "2";
+}
+.#{$vs-css-prefix}-3-square:before {
+  content: "3";
+}
+.#{$vs-css-prefix}-4-square:before {
+  content: "4";
+}
+.#{$vs-css-prefix}-5-square:before {
+  content: "5";
+}
+.#{$vs-css-prefix}-6-square:before {
+  content: "6";
+}
+.#{$vs-css-prefix}-7-square:before {
+  content: "7";
+}
+.#{$vs-css-prefix}-8-square:before {
+  content: "8";
+}
+.#{$vs-css-prefix}-9-square:before {
+  content: "9";
+}
+.#{$vs-css-prefix}-10-square:before {
+  content: "\f067";
+}
+.#{$vs-css-prefix}-a-square:before {
+  content: "A";
+}
+.#{$vs-css-prefix}-b-square:before {
+  content: "B";
+}
+.#{$vs-css-prefix}-c-square:before {
+  content: "C";
+}
+.#{$vs-css-prefix}-d-square:before {
+  content: "D";
+}
+.#{$vs-css-prefix}-e-square:before {
+  content: "E";
+}
+.#{$vs-css-prefix}-f-square:before {
+  content: "F";
+}
+.#{$vs-css-prefix}-g-square:before {
+  content: "G";
+}
+.#{$vs-css-prefix}-h-square:before {
+  content: "H";
+}
+.#{$vs-css-prefix}-i-square:before {
+  content: "I";
+}
+.#{$vs-css-prefix}-j-square:before {
+  content: "J";
+}
+.#{$vs-css-prefix}-k-square:before {
+  content: "K";
+}
+.#{$vs-css-prefix}-l-square:before {
+  content: "L";
+}
+.#{$vs-css-prefix}-m-square:before {
+  content: "M";
+}
+.#{$vs-css-prefix}-n-square:before {
+  content: "N";
+}
+.#{$vs-css-prefix}-o-square:before {
+  content: "O";
+}
+.#{$vs-css-prefix}-p-square:before {
+  content: "P";
+}
+.#{$vs-css-prefix}-q-square:before {
+  content: "Q";
+}
+.#{$vs-css-prefix}-r-square:before {
+  content: "R";
+}
+.#{$vs-css-prefix}-s-square:before {
+  content: "S";
+}
+.#{$vs-css-prefix}-t-square:before {
+  content: "T";
+}
+.#{$vs-css-prefix}-u-square:before {
+  content: "U";
+}
+.#{$vs-css-prefix}-v-square:before {
+  content: "V";
+}
+.#{$vs-css-prefix}-w-square:before {
+  content: "W";
+}
+.#{$vs-css-prefix}-x-square:before {
+  content: "X";
+}
+.#{$vs-css-prefix}-y-square:before {
+  content: "Y";
+}
+.#{$vs-css-prefix}-z-square:before {
+  content: "Z";
+}
 .#{$vs-css-prefix}-face-allergy:before {
   content: "\f000";
 }
@@ -255,9 +366,6 @@ $vs-version: "5.8.1" !default;
 .#{$vs-css-prefix}-rose:before {
   content: "\f04c";
 }
-.#{$vs-css-prefix}-i-square:before {
-  content: "\f04d";
-}
 .#{$vs-css-prefix}-cow:before {
   content: "\f04e";
 }
@@ -272,24 +380,6 @@ $vs-version: "5.8.1" !default;
 }
 .#{$vs-css-prefix}-drumstick:before {
   content: "\f052";
-}
-.#{$vs-css-prefix}-a-square:before {
-  content: "\f053";
-}
-.#{$vs-css-prefix}-b-square:before {
-  content: "\f054";
-}
-.#{$vs-css-prefix}-c-square:before {
-  content: "\f055";
-}
-.#{$vs-css-prefix}-1-square:before {
-  content: "\f056";
-}
-.#{$vs-css-prefix}-2-square:before {
-  content: "\f057";
-}
-.#{$vs-css-prefix}-3-square:before {
-  content: "\f058";
 }
 .#{$vs-css-prefix}-kanji-yubi:before {
   content: "\f059";
@@ -332,4 +422,25 @@ $vs-version: "5.8.1" !default;
 }
 .#{$vs-css-prefix}-kakaotalk-square:before {
   content: "\f066";
+}
+.#{$vs-css-prefix}-lock:before {
+  content: "\f068";
+}
+.#{$vs-css-prefix}-necktie:before {
+  content: "\f069";
+}
+.#{$vs-css-prefix}-stroller:before {
+  content: "\f06a";
+}
+.#{$vs-css-prefix}-wedding-cake:before {
+  content: "\f06b";
+}
+.#{$vs-css-prefix}-male-female:before {
+  content: "\f06c";
+}
+.#{$vs-css-prefix}-pregnant:before {
+  content: "\f06d";
+}
+.#{$vs-css-prefix}-mic:before, .#{$vs-css-prefix}-microphone:before {
+  content: "\f06e";
 }

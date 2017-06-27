@@ -1,5 +1,12 @@
 # Vesper Icons Changelog
 
+## 5.9.0
+
+* BREAKING CHANGE: The unicode mappings of icons vs-(1,2,3,a,b,c,i)-square have changed
+* New icons: vs-(0 thru 9)-square (mapped to 0-9 keys)
+* New icons: vs-(a thru z)-square (mapped to A-Z keys)
+* New icons: vs-10-square, vs-lock, vs-necktie, vs-stroller, vs-wedding-cake, vs-male-female, vs-pregnant, vs-mic/microphone
+
 ## 5.8.1
 
 * New icons: vs-kakao, vs-kakao-square, vs-kakaotalk, vs-kakaotalk-square

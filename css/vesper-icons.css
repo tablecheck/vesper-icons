@@ -5,12 +5,12 @@
  */
 @font-face {
   font-family: 'Vesper Icons';
-  src: url('../fonts/vesper-icons-webfont.eot?v=5.8.1');
-  src: url('../fonts/vesper-icons-webfont.eot?#iefix&v=5.8.1') format('embedded-opentype'),
-       url('../fonts/vesper-icons-webfont.woff2?v=5.8.1') format('woff2'),
-       url('../fonts/vesper-icons-webfont.woff?v=5.8.1') format('woff'),
-       url('../fonts/vesper-icons-webfont.ttf?v=5.8.1') format('truetype'),
-       url('../fonts/vesper-icons-webfont.svg?v=5.8.1#vesper_iconsregular') format('svg');
+  src: url('../fonts/vesper-icons-webfont.eot?v=5.9.0');
+  src: url('../fonts/vesper-icons-webfont.eot?#iefix&v=5.9.0') format('embedded-opentype'),
+       url('../fonts/vesper-icons-webfont.woff2?v=5.9.0') format('woff2'),
+       url('../fonts/vesper-icons-webfont.woff?v=5.9.0') format('woff'),
+       url('../fonts/vesper-icons-webfont.ttf?v=5.9.0') format('truetype'),
+       url('../fonts/vesper-icons-webfont.svg?v=5.9.0#vesper_iconsregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -28,6 +28,118 @@
 }
 /* Vesper uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
+
+.vs-0-square:before {
+  content: "0";
+}
+.vs-1-square:before {
+  content: "1";
+}
+.vs-2-square:before {
+  content: "2";
+}
+.vs-3-square:before {
+  content: "3";
+}
+.vs-4-square:before {
+  content: "4";
+}
+.vs-5-square:before {
+  content: "5";
+}
+.vs-6-square:before {
+  content: "6";
+}
+.vs-7-square:before {
+  content: "7";
+}
+.vs-8-square:before {
+  content: "8";
+}
+.vs-9-square:before {
+  content: "9";
+}
+.vs-10-square:before {
+  content: "\f067";
+}
+.vs-a-square:before {
+  content: "A";
+}
+.vs-b-square:before {
+  content: "B";
+}
+.vs-c-square:before {
+  content: "C";
+}
+.vs-d-square:before {
+  content: "D";
+}
+.vs-e-square:before {
+  content: "E";
+}
+.vs-f-square:before {
+  content: "F";
+}
+.vs-g-square:before {
+  content: "G";
+}
+.vs-h-square:before {
+  content: "H";
+}
+.vs-i-square:before {
+  content: "I";
+}
+.vs-j-square:before {
+  content: "J";
+}
+.vs-k-square:before {
+  content: "K";
+}
+.vs-l-square:before {
+  content: "L";
+}
+.vs-m-square:before {
+  content: "M";
+}
+.vs-n-square:before {
+  content: "N";
+}
+.vs-o-square:before {
+  content: "O";
+}
+.vs-p-square:before {
+  content: "P";
+}
+.vs-q-square:before {
+  content: "Q";
+}
+.vs-r-square:before {
+  content: "R";
+}
+.vs-s-square:before {
+  content: "S";
+}
+.vs-t-square:before {
+  content: "T";
+}
+.vs-u-square:before {
+  content: "U";
+}
+.vs-v-square:before {
+  content: "V";
+}
+.vs-w-square:before {
+  content: "W";
+}
+.vs-x-square:before {
+  content: "X";
+}
+.vs-y-square:before {
+  content: "Y";
+}
+.vs-z-square:before {
+  content: "Z";
+}
 .vs-face-allergy:before {
   content: "\f000";
 }
@@ -250,9 +362,6 @@
 .vs-rose:before {
   content: "\f04c";
 }
-.vs-i-square:before {
-  content: "\f04d";
-}
 .vs-cow:before {
   content: "\f04e";
 }
@@ -267,24 +376,6 @@
 }
 .vs-drumstick:before {
   content: "\f052";
-}
-.vs-a-square:before {
-  content: "\f053";
-}
-.vs-b-square:before {
-  content: "\f054";
-}
-.vs-c-square:before {
-  content: "\f055";
-}
-.vs-1-square:before {
-  content: "\f056";
-}
-.vs-2-square:before {
-  content: "\f057";
-}
-.vs-3-square:before {
-  content: "\f058";
 }
 .vs-kanji-yubi:before {
   content: "\f059";
@@ -327,4 +418,25 @@
 }
 .vs-kakaotalk-square:before {
   content: "\f066";
+}
+.vs-lock:before {
+  content: "\f068";
+}
+.vs-necktie:before {
+  content: "\f069";
+}
+.vs-stroller:before {
+  content: "\f06a";
+}
+.vs-wedding-cake:before {
+  content: "\f06b";
+}
+.vs-male-female:before {
+  content: "\f06c";
+}
+.vs-pregnant:before {
+  content: "\f06d";
+}
+.vs-mic:before, .vs-microphone:before {
+  content: "\f06e";
 }
