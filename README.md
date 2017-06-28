@@ -14,13 +14,13 @@ so please be very careful when upgrading even from tiny versions.
 Usage is equivalent to [Font Awesome](http://fontawesome.io/), except with `.vs` as the base:
 
 ```
-i.vs.vs-ninja
+<i class="vs vs-ninja" />
 ```
 
 You can mix Vesper Icons with Font Awesome modifier classes, e.g.:
 
 ```
-i.vs.vs-butterfly.fa-3x.fa-spin
+<i class="vs vs-butterfly fa-3x fa-spin" />
 ```
 
 
@@ -39,8 +39,7 @@ at info@kkvesper.jp.
 
 * Big thanks to [Dan Wolf](github.com/PaluMacil) for making his [vesper-gen](https://github.com/PaluMacil/vesper-gen) tool to render the icons.
 
-![image](https://cloud.githubusercontent.com/assets/27655/16169540/bf5e2cf8-356d-11e6-939f-03167d117d2a.png)
-
+![image](https://user-images.githubusercontent.com/27655/27643453-148d5abc-5c5c-11e7-9fad-1abd45b998d4.png)
 
 ### More Info
 

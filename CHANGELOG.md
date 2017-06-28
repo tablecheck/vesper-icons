@@ -1,5 +1,10 @@
 # Vesper Icons Changelog
 
+## 5.9.2
+
+* Icon fixes.
+* Update icon listing in docs.
+
 ## 5.9.1
 
 * New icons: vs-question-square, vs-calendar-alt-2, vs-id-badge-alt, vs-id-card-alt, vs-party
