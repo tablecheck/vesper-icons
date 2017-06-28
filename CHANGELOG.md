@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.9.1
+
+* New icons: vs-question-square, vs-calendar-alt-2, vs-id-badge-alt, vs-id-card-alt, vs-party
+
 ## 5.9.0
 
 * BREAKING CHANGE: The unicode mappings of icons vs-(1,2,3,a,b,c,i)-square have changed

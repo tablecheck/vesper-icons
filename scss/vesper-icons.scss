@@ -6,7 +6,7 @@
 
 $vs-css-prefix: vs !default;
 $vs-font-path: "../fonts" !default;
-$vs-version: "5.9.0" !default;
+$vs-version: "5.9.1" !default;
 
 @font-face {
   font-family: 'Vesper Icons';
@@ -443,4 +443,19 @@ $vs-version: "5.9.0" !default;
 }
 .#{$vs-css-prefix}-mic:before, .#{$vs-css-prefix}-microphone:before {
   content: "\f06e";
+}
+.#{$vs-css-prefix}-question-square:before {
+  content: "\f06f";
+}
+.#{$vs-css-prefix}-calendar-alt-2:before {
+  content: "\f070";
+}
+.#{$vs-css-prefix}-id-badge-alt:before {
+  content: "\f071";
+}
+.#{$vs-css-prefix}-id-card-alt:before {
+  content: "\f072";
+}
+.#{$vs-css-prefix}-party:before {
+  content: "\f073";
 }
