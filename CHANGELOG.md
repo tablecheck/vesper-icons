@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.9.3
+
+* Fix vs-necktie.
+
 ## 5.9.2
 
 * Icon fixes.
