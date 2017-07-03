@@ -11,7 +11,7 @@ so please be very careful when upgrading even from tiny versions.
 
 ### Usage
 
-Usage is equivalent to [Font Awesome](http://fontawesome.io/), except with `.vs` as the base:
+Usage is equivalent to [Font Awesome](http://fontawesome.io/), except with `"vs"` CSS class as the base:
 
 ```
 <i class="vs vs-ninja" />
