@@ -6,7 +6,7 @@
 
 $vs-css-prefix: vs !default;
 $vs-font-path: "../fonts" !default;
-$vs-version: "5.9.3" !default;
+$vs-version: "5.9.4" !default;
 
 @font-face {
   font-family: 'Vesper Icons';
@@ -458,4 +458,7 @@ $vs-version: "5.9.3" !default;
 }
 .#{$vs-css-prefix}-party:before {
   content: "\f073";
+}
+.#{$vs-css-prefix}-timeslots:before {
+  content: "\f074";
 }

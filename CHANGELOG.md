@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.9.4
+
+* New icon: vs-timeslots.
+
 ## 5.9.3
 
 * Fix vs-necktie.
