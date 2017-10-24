@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.9.6
+
+* New icons: vs-timeslot, vs-timeslot-question.
+
 ## 5.9.5
 
 * Fix vs-timeslots.
