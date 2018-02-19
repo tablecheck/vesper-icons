@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.9.7
+
+* New icons: vs-wine, vs-wine-o.
+
 ## 5.9.6
 
 * New icons: vs-timeslot, vs-timeslot-question.
