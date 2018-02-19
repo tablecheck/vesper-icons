@@ -468,3 +468,9 @@ $vs-version: "5.9.6" !default;
 .#{$vs-css-prefix}-timeslot-question:before {
   content: "\f076";
 }
+.#{$vs-css-prefix}-wine:before {
+  content: "\f077";
+}
+.#{$vs-css-prefix}-wine-o:before {
+  content: "\f078";
+}

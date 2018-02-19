@@ -464,3 +464,9 @@
 .vs-timeslot-question:before {
   content: "\f076";
 }
+.vs-wine:before {
+  content: "\f077";
+}
+.vs-wine-o:before {
+  content: "\f078";
+}
