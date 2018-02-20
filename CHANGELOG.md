@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.9.8
+
+* Fix size of vs-wine, vs-wine-o.
+
 ## 5.9.7
 
 * New icons: vs-wine, vs-wine-o.
