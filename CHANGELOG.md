@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.9.9
+
+* New icons: vs-door-closed, vs-door-open.
+
 ## 5.9.8
 
 * Fix size of vs-wine, vs-wine-o.
