@@ -6,7 +6,7 @@
 
 $vs-css-prefix: vs !default;
 $vs-font-path: "../fonts" !default;
-$vs-version: "5.9.9" !default;
+$vs-version: "5.9.10" !default;
 
 @font-face {
   font-family: 'Vesper Icons';
@@ -479,4 +479,10 @@ $vs-version: "5.9.9" !default;
 }
 .#{$vs-css-prefix}-door-open:before {
   content: "\f07a";
+}
+.#{$vs-css-prefix}-grapes:before {
+  content: "\f07b";
+}
+.#{$vs-css-prefix}-black-card:before {
+  content: "\f07c";
 }
