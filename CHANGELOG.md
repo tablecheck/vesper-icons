@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.9.11
+
+* Fix vs-black-card.
+
 ## 5.9.10
 
 * New icons: vs-grapes, vs-black-card.
