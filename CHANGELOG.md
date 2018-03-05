@@ -3,6 +3,7 @@
 ## 5.9.10
 
 * New icons: vs-grapes, vs-black-card.
+* Fix size of vs-wine.
 
 ## 5.9.9
 
