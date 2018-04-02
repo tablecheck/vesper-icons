@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.9.12
+
+* Fix vs-door-open.
+
 ## 5.9.11
 
 * Fix vs-black-card.
