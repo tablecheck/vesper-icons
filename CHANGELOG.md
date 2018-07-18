@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.10.0
+
+* New icons: vs-shield-check and vs-shield-times.
+
 ## 5.9.12
 
 * Fix vs-door-open.
