@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.10.1
+
+* Fix mistake in font path.
+
 ## 5.10.0
 
 * New icons: vs-shield-check and vs-shield-times.
