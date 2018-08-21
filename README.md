@@ -26,13 +26,9 @@ You can mix Vesper Icons with Font Awesome modifier classes, e.g.:
 
 ### Shameless Plug
 
-Vesper Icons are sponsored by [KK VESPER](http://kkvesper.jp/),
-makers of [TableSolution](http://www.tablesolution.com/),
-Japan's leading restaurant management app.
+Vesper Icons are sponsored by [TableCheck](http://corp.tablecheck.com/), Japan's leading restaurant management app.
 
-If **you** are a ninja-level Javascript/Ruby coder, designer, project manager, etc.
-eager to work with other ninjas in Tokyo, Japan in a dynamic environment, contact us
-at info@kkvesper.jp.
+If **you** are a ninja-level Javascript/Ruby coder, designer, project manager, etc. and are eager to work in Tokyo with other ninjas, Japan in a dynamic environment, please get in touch at [careers@tablecheck.com](mailto:careers@tablecheck.com).
 
 
 ### Icon List
