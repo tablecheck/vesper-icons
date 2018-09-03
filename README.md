@@ -1,6 +1,6 @@
 # Vesper Icons
 
-Icon font for the web, compatible with [Font Awesome](http://fontawesome.io/) version 4.x, made by by [KK Vesper](http://kkvesper.jp/)
+Icon font for the web, compatible with [Font Awesome](http://fontawesome.io/) version 4.x, made by by [Tablecheck](https://corp.tablecheck.com)
 
 
 ### WARNING
@@ -26,7 +26,7 @@ You can mix Vesper Icons with Font Awesome modifier classes, e.g.:
 
 ### Shameless Plug
 
-Vesper Icons are sponsored by [TableCheck](http://corp.tablecheck.com/), Japan's leading restaurant management app.
+Vesper Icons are sponsored by [TableCheck](https://corp.tablecheck.com), Japan's leading restaurant management app.
 
 If **you** are a ninja-level Javascript/Ruby coder, designer, project manager, etc. and are eager to work in Tokyo with other ninjas, Japan in a dynamic environment, please get in touch at [careers@tablecheck.com](mailto:careers@tablecheck.com).
 
@@ -83,7 +83,7 @@ Workflow depends on Type 3 font editor for Windows, which is a paid software pro
 
 ### License
 
-- Icon designs are Copyright (c) 2016 KK VESPER
+- Icon designs are Copyright (c) [TableCheck Inc.](https://corp.tablecheck.com)
 - The Vesper Icons font is licensed under the SIL OFL 1.1:
   - http://scripts.sil.org/OFL
 - Vesper Icons CSS and other source code files are licensed under the MIT License:
@@ -91,5 +91,5 @@ Workflow depends on Type 3 font editor for Windows, which is a paid software pro
 - The Vesper Icons documentation is licensed under the CC BY 3.0 License:
   - http://creativecommons.org/licenses/by/3.0/
 - Attribution is not required but much appreciated:
-  - `Vesper Icons by KK Vesper - http://kkvesper.jp`
+  - `Vesper Icons by TableCheck - https://corp.tablecheck.com`
 - Vesper Icons intends to be license-compatible with [Font Awesome](http://fontawesome.io/). The FontAwesome license is available here: http://fontawesome.io/license
