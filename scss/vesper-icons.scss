@@ -6,7 +6,7 @@
 
 $vs-css-prefix: vs !default;
 $vs-font-path: "../fonts" !default;
-$vs-version: "5.10.1" !default;
+$vs-version: "5.10.2" !default;
 
 @font-face {
   font-family: 'Vesper Icons';
@@ -491,4 +491,7 @@ $vs-version: "5.10.1" !default;
 }
 .#{$vs-css-prefix}-shield-times:before {
   content: "\f07e";
+}
+.#{$vs-css-prefix}-multi-arrow:before {
+  content: "\f07f";
 }

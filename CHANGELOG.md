@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.10.2
+
+* New icon: vs-multi-arrow.
+
 ## 5.10.1
 
 * Fix mistake in font path.
