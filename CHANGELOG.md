@@ -1,5 +1,10 @@
 # Vesper Icons Changelog
 
+## 5.10.3
+
+* Increase size of vs-id-card.
+* Reduce size of vs-multi-arrow.
+
 ## 5.10.2
 
 * New icon: vs-multi-arrow.
