@@ -6,7 +6,7 @@
 
 $vs-css-prefix: vs !default;
 $vs-font-path: "../fonts" !default;
-$vs-version: "5.10.3" !default;
+$vs-version: "5.10.4" !default;
 
 @font-face {
   font-family: 'Vesper Icons';
@@ -494,4 +494,7 @@ $vs-version: "5.10.3" !default;
 }
 .#{$vs-css-prefix}-multi-arrow:before {
   content: "\f07f";
+}
+.#{$vs-css-prefix}-yahoo-japan:before {
+  content: "\f080";
 }

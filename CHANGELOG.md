@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.10.4
+
+* New icon: vs-yahoo-japan.
+
 ## 5.10.3
 
 * Increase size of vs-id-card.
