@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.11.1
+
+* Rename icon: vs-person-group to vs-people-group.
+
 ## 5.11.0
 
 * New icon: vs-sheep.

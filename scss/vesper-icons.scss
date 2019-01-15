@@ -6,7 +6,7 @@
 
 $vs-css-prefix: vs !default;
 $vs-font-path: "../fonts" !default;
-$vs-version: "5.11.0" !default;
+$vs-version: "5.11.1" !default;
 
 @font-face {
   font-family: 'Vesper Icons';
@@ -507,7 +507,7 @@ $vs-version: "5.11.0" !default;
 .#{$vs-css-prefix}-camel:before {
   content: "\f083";
 }
-.#{$vs-css-prefix}-person-group:before {
+.#{$vs-css-prefix}-people-group:before {
   content: "\f084";
 }
 .#{$vs-css-prefix}-volume-times:before {
