@@ -1,5 +1,15 @@
 # Vesper Icons Changelog
 
+## 5.11.0
+
+* New icon: vs-sheep.
+* New icon: vs-panther.
+* New icon: vs-camel.
+* New icon: vs-person-group.
+* New icon: vs-volume-times.
+* New icon: vs-volume-on.
+* New icon: vs-cc-card.
+
 ## 5.10.4
 
 * New icon: vs-yahoo-japan.

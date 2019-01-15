@@ -6,7 +6,7 @@
 
 $vs-css-prefix: vs !default;
 $vs-font-path: "../fonts" !default;
-$vs-version: "5.10.4" !default;
+$vs-version: "5.11.0" !default;
 
 @font-face {
   font-family: 'Vesper Icons';
@@ -483,7 +483,7 @@ $vs-version: "5.10.4" !default;
 .#{$vs-css-prefix}-grapes:before {
   content: "\f07b";
 }
-.#{$vs-css-prefix}-black-card:before {
+.#{$vs-css-prefix}-bc-card:before, .#{$vs-css-prefix}-black-card:before {
   content: "\f07c";
 }
 .#{$vs-css-prefix}-shield-check:before {
@@ -497,4 +497,25 @@ $vs-version: "5.10.4" !default;
 }
 .#{$vs-css-prefix}-yahoo-japan:before {
   content: "\f080";
+}
+.#{$vs-css-prefix}-sheep:before {
+  content: "\f081";
+}
+.#{$vs-css-prefix}-panther:before {
+  content: "\f082";
+}
+.#{$vs-css-prefix}-camel:before {
+  content: "\f083";
+}
+.#{$vs-css-prefix}-person-group:before {
+  content: "\f084";
+}
+.#{$vs-css-prefix}-volume-times:before {
+  content: "\f085";
+}
+.#{$vs-css-prefix}-volume-on:before {
+  content: "\f086";
+}
+.#{$vs-css-prefix}-cc-card:before {
+  content: "\f087";
 }
