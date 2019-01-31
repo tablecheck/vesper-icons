@@ -1,5 +1,9 @@
 # Vesper Icons Changelog
 
+## 5.11.2
+
+* Fix eye of vs-panther.
+
 ## 5.11.1
 
 * Rename icon: vs-person-group to vs-people-group.
